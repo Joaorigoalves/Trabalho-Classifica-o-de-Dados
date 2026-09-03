@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Sep 02 14:30:54 BRT 2026
+comment0.target=Truck
+comment1.params=passengers fuelCap mpg cargoCap
+comment1.target=Truck(int, int, int, int)
+comment2.params=novaCargoCap
+comment2.target=void setCargoCap(int)
+comment3.target=int getCargoCap()
+numComments=4
