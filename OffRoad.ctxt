@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Sep 02 14:52:18 BRT 2026
+comment0.target=OffRoad
+comment1.params=passengers fuelCap mpg groundClearance
+comment1.target=OffRoad(int, int, int, float)
+comment2.params=novoGround
+comment2.target=void setGround(float)
+comment3.target=float getGround()
+numComments=4
