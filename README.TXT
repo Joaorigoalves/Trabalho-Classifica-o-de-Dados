@@ -1,9 +1,5 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TÍTULO DO PROJETO: Herança com veículos
-VERSÃO ou DATA: 2026
-AUTORES: João Rigo Alves
+                  TÍTULO DO PROJETO: Classificação de Dados
+                  DATA: 2026
+                  AUTORES: João Rigo Alves
+----------------------------------------------------------------------------
