@@ -1,0 +1,8 @@
+#BlueJ class context
+#Tue Sep 08 19:59:48 BRT 2026
+comment0.target=Pedido
+comment1.params=cliente itens pagamento
+comment1.target=Pedido(Cliente, Item[], TipoPagamento)
+comment2.target=double getTotalPedido()
+comment3.target=TipoPagamento getPagamento()
+numComments=4

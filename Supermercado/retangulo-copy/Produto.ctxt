@@ -1,0 +1,10 @@
+#BlueJ class context
+#Tue Sep 08 19:59:48 BRT 2026
+comment0.target=Produto
+comment1.params=desc preco qEstoque
+comment1.target=Produto(Descricao, double, int)
+comment2.target=double getPreco()
+comment3.params=quantidadeComprada
+comment3.target=void diminuirEstoque(int)
+comment4.target=int getQuantidadeEstoque()
+numComments=5
