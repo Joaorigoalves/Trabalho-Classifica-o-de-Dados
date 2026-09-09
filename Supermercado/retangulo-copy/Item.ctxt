@@ -1,7 +1,0 @@
-#BlueJ class context
-#Tue Sep 08 19:59:48 BRT 2026
-comment0.target=Item
-comment1.params=prod q
-comment1.target=Item(Produto, int)
-comment2.target=double getTotal()
-numComments=3
